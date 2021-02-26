@@ -1,0 +1,14 @@
+Incoming vertices:
+	Vert 1: (-10.5931, 12, 12.6406)
+	Vert 2: (-7.35706, 6.4, 10.2895)
+	Vert 3: (-12.9443, 12.8, 9.40454)
+2d vertices: 
+	Vert 1: (1.77318, -0.383135)
+	Vert 2: (2.53955, 2.42327)
+	Vert 3: (-3.06548, -1.6256)
+2d vertices after origin: 
+	Vert 1: (51.7732, 49.6169)
+	Vert 2: (52.5396, 52.4233)
+	Vert 3: (46.9345, 48.3744)
+Min Vert x: 46.9345, Max Vert x: 52.5396
+Min Vert y: 48.3744, Max Vert y: 52.4233

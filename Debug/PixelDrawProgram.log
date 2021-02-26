@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\PixelDrawProgram\settings.h(3,35): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\PixelDrawProgram\main.cpp(72,42): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  PixelDrawProgram.vcxproj -> C:\Users\HP\source\repos\PixelDrawProgram\Debug\PixelDrawProgram.exe
